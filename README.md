@@ -4,4 +4,8 @@
   <img src="https://files.catbox.moe/xz9v6f.jpg" width="200"/>
 </p>
 
-[🌐 Visit Pairing Site](https://toxicpairing3.onrender.com/pair)
+<p align="center">
+  <a href="https://toxicpairing3.onrender.com/pair" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Pairing%20Site-Click%20Here-blueviolet?style=for-the-badge" alt="Visit Pairing Site"/>
+  </a>
+</p>
